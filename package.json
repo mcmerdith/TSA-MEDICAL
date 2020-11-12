@@ -1,0 +1,28 @@
+{
+  "name": "tsa-medical",
+  "version": "1.0.0",
+  "description": "Site for TSA Webmaster 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "website",
+    "tsa",
+    "webmaster"
+  ],
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/mcmerdith/tsa-webmaster2021.git"
+  },
+  "author": "mcmerdith",
+  "license": "ISC",
+  "dependencies": {
+    "foundation-sites": "^6.6.3",
+    "jquery": "^3.5.1",
+    "what-input": "^5.2.10"
+  }
+}
